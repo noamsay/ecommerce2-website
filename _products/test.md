@@ -1,9 +1,9 @@
 ---
 name: test
 garment_type: top
-price:
+price: '10'
 sku:
-description:
+description: test description
 sizes:
   - XS
   - Small
